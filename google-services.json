@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968802798341",
+    "project_id": "shopcamp",
+    "storage_bucket": "shopcamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968802798341:android:49a0530b86104a3f15456c",
+        "android_client_info": {
+          "package_name": "com.example.challangechapter7.dev"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968802798341-s8el9dqc2jkftinsm952qab8n3816t36.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDC53H9W-bDWE6a6UUeX2f96JASLzO34CY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968802798341-s8el9dqc2jkftinsm952qab8n3816t36.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
